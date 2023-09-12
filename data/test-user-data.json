@@ -1,0 +1,193 @@
+[
+    {
+        "role": "mentee",
+        "email": "Zorin.Darklighter@microsoft.com",
+        "objectives": [
+            "Career growth",
+            "Learning",
+            "Networking",
+            "Work life Balance",
+            "Technical skills"
+        ],
+        "detail": "I want to understand what it is that I need to understand a topic deeper / see the relationship between each components.",
+        "title": "Software Engineer",
+        "capacity": 1,
+        "org": "Quila.Starshard@microsoft.com"
+    },
+    {
+        "role": "mentee",
+        "email": "Arlon.Vossk@microsoft.com",
+        "objectives": [
+            "Career growth",
+            "Learning",
+            "Networking",
+            "Technical skills"
+        ],
+        "detail": "I'm hoping to learn software engineering practices and mindsets that would help me get started and stay on track for developing good habits. I'd also love to learn more about what different teams are working on. Lastly, I'd like to have the chance to learn about shaping my career goals and getting to them!",
+        "title": "Software Engineer",
+        "capacity": 1,
+        "org": "Talia.Sunweaver@microsoft.com"
+    },
+    {
+        "role": "mentee",
+        "email": "Eryndor.Kyrell@microsoft.com",
+        "objectives": [
+            "Career growth",
+            "Product Management",
+            "Soft skills",
+            "Leadership Development"
+        ],
+        "detail": "I am interested to know more contributing to Upstream projects at Microsoft. I am looking to be part of the CNCF groups and exploring new  Kubernetes projects.  Additionally, I will benefit from soft skills such as  stakeholder alignment, better communication and public speaking.",
+        "title": "PM",
+        "capacity": 1,
+        "org": "Voxis.Quell@microsoft.com"
+    },
+    {
+        "role": "mentee",
+        "email": "Rella.Skystrider@microsoft.com",
+        "objectives": [
+            "Career growth",
+            "Technical skills",
+            "Networking",
+            "Learning",
+            "Leadership Development"
+        ],
+        "detail": "I'm hoping to get a better understanding of the options I have ahead of me and potential directions I can take my career from where it is now. I also wish to learn more about how to better manage my time, and balance learning on the job with being a productive engineer/contributor to my team. I also look forward to meeting new people and making new connections!",
+        "title": "PM",
+        "capacity": 1,
+        "org": "Wrenn.Vortex@microsoft.com"
+    },
+    {
+        "role": "mentor",
+        "email": "Joren.Solara@microsoft.com",
+        "objectives": [
+            "Technical skills",
+            "Learning",
+            "Networking"
+        ],
+        "detail": "This is how I achieved what I have today, by having great mentors. So Just trying to give that back. Helping people is my hobby. I'm learning while helping others. I am doing that with the broader k8s community and would love to do it for my colleagues.",
+        "title": "Senior Software Engineer",
+        "capacity": 2,
+        "org": "Thalia.Moonspear@microsoft.com"
+    },
+    {
+        "role": "mentee",
+        "email": "Kaelor.Driftwind@microsoft.com",
+        "objectives": [
+            "Career growth",
+            "Technical skills",
+            "Learning",
+            "Networking",
+            "Leadership Development",
+            "Soft skills"
+        ],
+        "detail": "Being an internal transfer from another organization into AKS, I'd like to take the mentorship opportunity to learn more about how AKS works as an organization and what it takes to be successful here. I'm also looking for technical guidance and how to effectively learn what's expected of me technically.",
+        "title": "Software Engineer",
+        "capacity": 1,
+        "org": "Zephyra.Nightfall@microsoft.com"
+    },
+    {
+        "role": "mentee",
+        "email": "Oskar.Redstar@microsoft.com",
+        "objectives": [
+            "Career growth",
+            "Technical skills",
+            "Leadership Development"
+        ],
+        "detail": "Would definitely love to have a mentor that I can consult to and ask questions not in my direct work groups to avoid sensitivity issue. Great to know that our org has a mentorship program.",
+        "title": "Senior Software Engineer",
+        "capacity": 1,
+        "org": "Veylis.Stormwraith@microsoft.com"
+    },
+    {
+        "role": "mentor",
+        "email": "Tarric.Fireblade@microsoft.com",
+        "objectives": [
+            "Product Management",
+            "Learning",
+            "Networking",
+            "Soft skills",
+            "Work life Balance"
+        ],
+        "detail": "Not really sure how to answer this one :) I am happy to share my experience in all the areas above :) as well as to learn what people are interested to explore",
+        "title": "Principal PM",
+        "capacity": 2,
+        "org": "Serapha.Dawnbreeze@microsoft.com"
+    },
+    {
+        "role": "mentee",
+        "email": "Galen.Thunderforge@microsoft.com",
+        "objectives": [
+            "Career growth",
+            "Learning"
+        ],
+        "detail": "Learn more about monitoring solutions or Testing. Also need guidance on how promotions work in Microsoft and help me get a better idea on how to succeed in that process",
+        "title": "Software Engineer",
+        "capacity": 1,
+        "org": "Xylo.Darkwater@microsoft.com"
+    },
+    {
+        "role": "mentee",
+        "email": "Juno.Windrider@microsoft.com",
+        "objectives": [
+            "Career growth",
+            "Learning",
+            "Networking"
+        ],
+        "detail": "Since I just started on the Upstream Publishing team a month ago, I would like to learn more about how all the parts of Upstream/AKS fit together. I would also like to talk about growth within the company, what kinds of experiences and resources people have found useful in terms of learning and working here, and any advice that can be given to a person just starting their career.",
+        "title": "Software Engineer",
+        "capacity": 1,
+        "org": "Velkin.Iceclaw@microsoft.com"
+    },
+    {
+        "role": "mentee",
+        "email": "Saria.Whitestar@microsoft.com",
+        "objectives": [
+            "Career growth",
+            "Technical skills"
+        ],
+        "detail": "I would like to learn more about designing good software and thinking deeper about techincal problems. I would also like to better my ability to judge the impact of work. I also want to take some ownership and work my way toward being a leader in my sig. Also organization of work temporally, would be great. I struggle to organize all of my commitments since I have been taking on work in both observability and remediation as well as autoscale. I am joining the autoscaling sig so learning more about the interworkings of node bootstrapping and the like would be good. I want to learn a deep foundation of everything that AKS does to the node, so I can better cater my development efforts.  And would like some mentorship in how to organize my time to better tackle azure specific concepts",
+        "title": "Software Engineer",
+        "capacity": 1,
+        "org": "Ryler.Stonefist@microsoft.com"
+    },
+    {
+        "role": "mentor",
+        "email": "Elara.Voidseeker@microsoft.com",
+        "objectives": [
+            "Career growth",
+            "Technical skills",
+            "Learning",
+            "Work life Balance"
+        ],
+        "detail": "I enjoy helping early career folks to navigate the growth ladder.",
+        "title": "Senior Software Engineer",
+        "capacity": 2,
+        "org": "Orryn.Lightfoot@microsoft.com"
+    },
+    {
+        "role": "mentor",
+        "email": "Farin.Sunsword@microsoft.com",
+        "objectives": [
+            "Technical skills"
+        ],
+        "detail": "Happy to mentor anyone that would like to learn more about writing performant Kusto queries.",
+        "title": "Senior Software Engineer",
+        "capacity": 2,
+        "org": "Mira,Moonblade@microsoft.com"
+    },
+    {
+        "role": "mentor",
+        "email": "Farin.Sunsword@microsoft.com",
+        "objectives": [
+            "Career growth",
+            "Leadership Development",
+            "Soft skills",
+            "Work life Balance"
+        ],
+        "detail": "Mentoring for: 1. dev -> mgr role change 2. achieving and sustaining work life balance 3. how to navigate early career",
+        "title": "Software Engineering Manager",
+        "capacity": 2,
+        "org": "Mira,Moonblade@microsoft.com"
+    }
+]
