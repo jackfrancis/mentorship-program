@@ -6,13 +6,20 @@ import json
 import pandas as pd
 
 # Set up OpenAI API key
-openai.api_key = os.environ.get('OPENAI_API_KEY')
+# openai.api_key = os.environ.get('OPENAI_API_KEY')
+
+# Set up OpenAI API key
+openai.api_type = "azure"
+openai.api_base = os.getenv("AZURE_OPENAI_ENDPOINT") 
+openai.api_version = "2023-05-15"
+openai.api_key = os.getenv("AZURE_OPENAI_KEY")
 
 # setup the logger to log to stdout and file
 def setup_logger():
     logging.basicConfig(level=logging.DEBUG, filename='matching.log', format='%(asctime)s - %(levelname)s - %(message)s')
 
     root = logging.getLogger()
+    # log >=DEBUG level to file
     root.setLevel(logging.DEBUG)
 
     handler = logging.StreamHandler(sys.stdout)
@@ -39,8 +46,8 @@ def preprocess_data(mentors_df, mentees_df):
 # Send message to OpenAI API and return the response
 def match_with_gpt(inputdata):
     response = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
-        messages=
+        engine = "chat35", # use "chat" for GPT-4, "chat35" for GPT-3.5 Turbo
+        messages =
             [{"role": "system", "content": 'You will match mentors with mentees based on their preferences ... or follow other instructions.'}, #TODO: Update system prompt
              {"role": "user", "content": f'{inputdata}'}],
     )
